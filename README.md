@@ -21,9 +21,9 @@ A Python arcade‑style game built with the `turtle` graphics library. The playe
 ---
 
 ##  Project Structure
--turtle-crossing-game-python/
--│
--├── main.py          # Game loop and setup
--├── player.py        # Player class (movement, finish line detection)
--├── car_manager.py   # CarManager class (car creation, movement, speed control)
--└── scoreboard.py    # Scoreboard class (level display, game over message)
+turtle-crossing-game-python/
+│
+├── main.py          # Game loop and setup
+├── player.py        # Player class (movement, finish line detection)
+├── car_manager.py   # CarManager class (car creation, movement, speed control)
+└── scoreboard.py    # Scoreboard class (level display, game over message)
