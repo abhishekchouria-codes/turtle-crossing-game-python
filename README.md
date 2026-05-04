@@ -4,7 +4,7 @@ A Python arcade‑style game built with the `turtle` graphics library. The playe
 
 ---
 
-## 🎮 Features
+##  Features
 - **Player Controls**: Move the turtle upward using the keyboard.  
 - **Car Spawning**: Cars appear randomly with different colors and positions.  
 - **Collision Detection**: Game ends when the turtle collides with a car.  
@@ -13,7 +13,7 @@ A Python arcade‑style game built with the `turtle` graphics library. The playe
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python 3**  
 - **Turtle Graphics Library** (for visuals and movement)  
 - **Object‑Oriented Programming** (modular classes: `Player`, `CarManager`, `Scoreboard`)  
